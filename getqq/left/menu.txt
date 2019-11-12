@@ -1,0 +1,13 @@
+<ul id="t1">
+                <li><div class="main_left_title"><a href="index.php">管理首页</a></div></li>
+                <li id="list_1">基本信息</li>
+					<li id="list_t1" class="main_left_text" style="display:block;">
+                        <a href="admin.php" target="mif">统计信息</a>
+						<a href="list.php" target="mif">访客列表</a>
+                    </li>
+                    
+                <li id="list_2">账号管理</li>
+                    <li id="list_t2" class="main_left_text">
+                    <a href="pws.php" target="mif">密码修改</a>
+                    </li>
+            </ul>

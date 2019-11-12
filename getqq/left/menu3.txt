@@ -1,0 +1,7 @@
+<ul id="t1">
+                <li><div class="main_left_title"><a href="index.php">管理首页</a></div></li>
+                <li id="list_1">模板选择</li>
+                    <li id="list_t1" class="main_left_text" style="display:block;">
+                        <a href="#" target="mif">模板列表</a>
+                    </li>
+            </ul>

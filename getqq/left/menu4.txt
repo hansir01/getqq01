@@ -1,0 +1,10 @@
+<ul id="t1">
+                <li><div class="main_left_title"><a href="index.php">管理首页</a></div></li>
+                <li id="list_1">静态生成</li>
+                    <li id="list_t1" class="main_left_text" style="display:block;">
+                        <a href="#" target="mif">全站生成</a>
+						<a href="#" target="mif">生成首页</a>
+						<a href="#" target="mif">生成栏目</a>
+						<a href="#" target="mif">生成文章</a>
+                    </li>
+            </ul>

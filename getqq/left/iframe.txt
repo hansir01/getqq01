@@ -1,0 +1,2 @@
+<div class="miframe_top"><img src="images/in.gif" width="14" height="12" align="absmiddle" />当前位置：主页 > </div>
+    		<iframe id="mif" name="mif" width="100%" frameborder="0" src="admin.php"></iframe>

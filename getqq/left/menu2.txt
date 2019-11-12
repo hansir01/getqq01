@@ -1,0 +1,8 @@
+<ul id="t1">
+                <li><div class="main_left_title"><a href="index.php">管理首页</a></div></li>
+                <li id="list_1">用户管理</li>
+                    <li id="list_t1" class="main_left_text" style="display:block;">
+                        <a href="adduser.php" target="mif">增加用户</a>
+                        <a href="user_list.php" target="mif">用户列表</a>
+                    </li>
+            </ul>
